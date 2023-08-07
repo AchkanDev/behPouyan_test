@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "865964006205",
+    "project_id": "behpouyantest",
+    "storage_bucket": "behpouyantest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865964006205:android:1d04dae781faebe5350354",
+        "android_client_info": {
+          "package_name": "com.example.beh_pouyan_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865964006205-mm9e5jnh6ndq579j6e35jb57cgr4mv29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBakiTrC4-BzjUBnADZn27UJAULkmw4myQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865964006205-mm9e5jnh6ndq579j6e35jb57cgr4mv29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
